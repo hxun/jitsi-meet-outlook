@@ -1,4 +1,4 @@
-# Jitsi Meet Outlook Add-In
+# Jitsi Meet Outlook Add-In(.net framework 4.7.2)
 ## Introduction
 This is a small plug-in that aims to integrate Jitsi Meet with Microsoft Outlook. Specifically, it adds two main features:
 1. A button in the Outlook calendar tab that opens a new appointment and inserts a randomly generated Jitsi Meet URL.
